@@ -3,7 +3,7 @@ Bluetoothを使用して任意の数字を送信するアプリ
 
 下記受信側のアプリと一緒に使用することで送受信が確認できる
 
-[受信側リポジトリ](https://github.com/Genki2/Portfolio_BLECentral)
+[受信側リポジトリ](https://github.com/Genki-Fujimoto/Portfolio_BLECentral)
 
 ## アーキテクチャ
 MVC
